@@ -10,8 +10,8 @@
 
 #Steps to run project
 
-1 - Open AndroidStudio
-2 - Select "Get from Version Control"
-3 - Paste "https://github.com/Amalip/DrinkiPedia.git" on URL
-4 - Click on "Clone"
-5 - Open project
+- Open AndroidStudio
+- Select "Get from Version Control"
+- Paste "https://github.com/Amalip/DrinkiPedia.git" on URL
+- Click on "Clone"
+- Open project
