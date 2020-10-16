@@ -1,0 +1,3 @@
+package com.amalip.cocktailtestapp.application.viewInterfaces
+
+interface IMainEvent
